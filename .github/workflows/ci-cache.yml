@@ -1,4 +1,4 @@
-name: Java test reusable
+name: Java test reusable caching
 on:
   push:
     branches:
